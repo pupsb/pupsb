@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**pupsb/pupsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 I’m currently working on Js<br>👯 I’m looking to collaborate on Internships<br>🤝 I’m looking for help with redux<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about Web-Dev<br>⚡ Fun fact
